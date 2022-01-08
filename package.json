@@ -1,0 +1,10 @@
+{
+	"name": "@zzzhhhbbb/vue-cli-preset",
+	"version": "0.1.0",
+	"description": "A Vue CLI 3 preset",
+	"license": "MIT",
+	"author": {
+		"name": "nBrian",
+		"email": "nBrian@qq.com"
+	}
+}

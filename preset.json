@@ -1,0 +1,22 @@
+{
+  "useTaobaoRegistry": true,
+  "presets": {
+    "vue3_Dart_Pretier": {
+      "useConfigFiles": true,
+      "plugins": {
+        "@vue/cli-plugin-babel": {},
+        "@vue/cli-plugin-router": {
+          "historyMode": true
+        },
+        "@vue/cli-plugin-eslint": {
+          "config": "prettier",
+          "lintOn": [
+            "save"
+          ]
+        }
+      },
+      "vueVersion": "3",
+      "cssPreprocessor": "dart-sass"
+    }
+  }
+}
